@@ -1,0 +1,30 @@
+{
+  "name": "web-informaticos-unp",
+  "version": "1.0.0",
+  "description": "Proyecto web para el grupo de informaticos UNP",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grupo-informaticos-unp/Web-Informaticos-UNP.git"
+  },
+  "author": "Ricardo Alvarado Aponte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grupo-informaticos-unp/Web-Informaticos-UNP/issues"
+  },
+  "homepage": "https://github.com/grupo-informaticos-unp/Web-Informaticos-UNP#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "jshint": "^2.9.3"
+  }
+}

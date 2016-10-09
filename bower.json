@@ -1,0 +1,15 @@
+{
+  "name": "web-informaticos-unp",
+  "description": "Proyecto web para el grupo de informaticos UNP",
+  "main": "index.html",
+  "authors": [
+    "Ricardo Alvarado Aponte"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/grupo-informaticos-unp/Web-Informaticos-UNP",
+  "directory": "app/lib",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
